@@ -5,13 +5,14 @@
   <p align="center">
     A spiritual successor to <a href="https://github.com/splewis/csgo-multi-1v1/tree/master">splewis' csgo-multi-1v1</a>
     <br />
-    <
     This plugin allows any number of players to be automatically placed into separate arenas to fight 1v1 in a ladder-style system where the winner moves up an arena rank, and the loser moves down. Player weapons are determined by the randomly generated "round type" and they will both use those same weapons for the entire round. Once the round starts, players will fight each other and when one kills the other, that player will receive a point and both players will respawn with full health and weapons, when the round ends, the player with the most points will win.
     <br />
     <br />
 	<strong>Try out the plugin at: 34.174.10.81:27015</strong>
     <br />
 	<strong>Note: This plugin is still under development and currently contains minimal features.</strong>
+	</p>
+</div>
 
 <!-- GETTING STARTED -->
 ## Getting Started
