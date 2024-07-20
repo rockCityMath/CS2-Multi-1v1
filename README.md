@@ -10,7 +10,7 @@
     <br />
 	<strong>Try out the plugin at: 34.174.10.81:27015</strong>
     <br />
-	<strong>Note: This plugin is still under development and currently contains minimal features.</strong>
+	<strong>Note: This plugin contains minimal features, has some bugs, and I'm not supporting it right now :( .</strong>
 	</p>
 </div>
 
